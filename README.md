@@ -16,7 +16,7 @@ A full-stack To-Do List application built with React (frontend) and Node.js (bac
 - **Frontend**: React, CSS (or SCSS)
 - **Backend**: Node.js, Express
 - **Database**: MongoDB (or another database of your choice)
-- **Deployment**: Vercel (Frontend), Heroku (or similar) 
+- **Deployment**: Vercel (Frontend)
 
 ## Installation
 
