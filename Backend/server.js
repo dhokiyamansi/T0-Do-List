@@ -6,6 +6,13 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+const corsOptions = {
+    origin: 'https://mansi-to-do-list.vercel.app/',
+    method: 'GET, POST, DELETE, PATCH, HEAD',
+    Credentials: true,
+    allowedHeaders: 'Content-Type, Authorization'
+}
+
 mongoose.connect('mongodb+srv://mansidhokiya85146:Viral123@cluster0.o0puq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', {
     useNewUrlParser: true,
     useUnifiedTopology: true
