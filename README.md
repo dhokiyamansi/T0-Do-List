@@ -25,12 +25,12 @@ A full-stack To-Do List application built with React (frontend) and Node.js (bac
 - Node.js and npm installed on your system.
 - MongoDB database (local or cloud-based, such as MongoDB Atlas).
 
-### Clone the Repository
-###Deployment
-Push your frontend code to GitHub.
-Go to Vercel and import your repository.
-Deploy the frontend with default settings.
+### Deployment
+- Push your frontend code to GitHub.
+- Go to Vercel and import your repository.
+- Deploy the frontend with default settings.
 
+### Clone the Repository
 ```bash
 git clone https://github.com/dhokiyamansi/To-Do-List.git
 
