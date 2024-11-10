@@ -28,5 +28,5 @@ A full-stack To-Do List application built with React (frontend) and Node.js (bac
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/To-Do-List.git
+git clone https://github.com/dhokiyamansi/To-Do-List.git
 cd To-Do-List
