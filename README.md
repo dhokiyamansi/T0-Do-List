@@ -30,6 +30,10 @@ A full-stack To-Do List application built with React (frontend) and Node.js (bac
 - Go to Vercel and import your repository.
 - Deploy the frontend with default settings.
 
+### Usage
+- Open your browser and navigate to http://localhost:3000.
+- Add, edit, delete, and mark tasks as completed using the interface.
+
 ### Clone the Repository
 ```bash
 git clone https://github.com/dhokiyamansi/To-Do-List.git
